@@ -22,3 +22,7 @@ CI：continuous integration，持续集成，频繁地将代码集成到主干�
 * 在`https://codecov.io`添加仓库
 * 更新.travis.yml配置文件
 * 在README.md里添加`codecov`图标
+
+#### 5. benchmark
+`https://benchmarkjs.com/` - 基准的代码性能测试与比较，去掉了各种额外因素对代码的影响<br>
+`https://jsperf.com/` - 生成一个链接，可在各种环境下进行测试
