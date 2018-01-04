@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test/mocha.js",
-    "cover":"istanbul cover node_modules/mocha/bin/_mocha test/mocha.js"
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha test/mocha.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Hfimy/test-learn#readme",
   "devDependencies": {
     "chai": "^4.1.2",
+    "istanbul": "^0.4.5",
     "mocha": "^4.1.0"
   }
 }
